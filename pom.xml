@@ -64,6 +64,7 @@
 
   <modules>
     <module>agmip-lib-parent</module>
+    <module>agmip-translator-parent</module>
   </modules>
 
   <organization>
