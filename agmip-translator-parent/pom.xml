@@ -10,7 +10,7 @@
   </parent>
 
   <artifactId>agmip-translator-parent</artifactId>
-  <packaging>pom</packaging>
+  <packaging>jar</packaging>
   <name>AgMIP Translator Parent</name>
   <description>AgMIP Translator Parent. Any AgMIP translators should use this.</description>
   <url>http://www.agmip.org/</url>

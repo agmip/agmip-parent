@@ -26,22 +26,22 @@
   </distributionManagement>
 
   <issueManagement>
-    <url>https://github.com/agmip/agmip-bom-parent/issues</url>
+    <url>https://github.com/agmip/agmip-parent/issues</url>
     <system>GitHub Issues</system>
   </issueManagement>
 
   <licenses>
     <license>
       <name>BSD License</name>
-      <url>https://raw.github.com/agmip/agmip-bom-parent/master/LICENSE</url>
+      <url>https://raw.github.com/agmip/agmip-parent/master/LICENSE</url>
       <distribution>repo</distribution>
     </license>
   </licenses>
 
   <scm>
-    <url>https://github.com/agmip/agmip-bom-parent</url>
-    <connection>scm:git:git://github.com/agmip/agmip-bom-parent.git</connection>
-    <developerConnection>scm:git:git@github.com:agmip/agmip-bom-parent.git</developerConnection>
+    <url>https://github.com/agmip/agmip-parent</url>
+    <connection>scm:git:git://github.com/agmip/agmip-parent.git</connection>
+    <developerConnection>scm:git:git@github.com:agmip/agmip-parent.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
