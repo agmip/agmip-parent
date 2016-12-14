@@ -9,17 +9,17 @@
     <version>2.0.1</version>
   </parent>
 
-  <artifactId>agmip-lib-parent</artifactId>
-  <packaging>pom</packaging>
-  <name>AgMIP Library Parent</name>
-  <description>AgMIP Library Parent. Any AgMIP libraries (not translators) should use this.</description>
+  <artifactId>agmip-translator-parent</artifactId>
+  <packaging>jar</packaging>
+  <name>AgMIP Translator Parent</name>
+  <description>AgMIP Translator Parent. Any AgMIP translators should use this.</description>
   <url>http://www.agmip.org/</url>
 
   <dependencyManagement>
     <dependencies>
       <dependency>
         <groupId>org.agmip.bom</groupId>
-        <artifactId>agmip-lib-bom</artifactId>
+        <artifactId>agmip-translator-bom</artifactId>
         <version>2.0.1</version>
         <type>pom</type>
         <scope>import</scope>
