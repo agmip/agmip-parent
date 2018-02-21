@@ -6,20 +6,20 @@
   <parent>
     <groupId>org.agmip.parent</groupId>
     <artifactId>agmip-base-parent</artifactId>
-    <version>2.0.2</version>
+    <version>2.0.2-SNAPSHOT</version>
   </parent>
 
-  <artifactId>agmip-translator-parent</artifactId>
+  <artifactId>agmip-lib-parent</artifactId>
   <packaging>pom</packaging>
-  <name>AgMIP Translator Parent</name>
-  <description>AgMIP Translator Parent. Any AgMIP translators should use this.</description>
+  <name>AgMIP Library Parent</name>
+  <description>AgMIP Library Parent. Any AgMIP libraries (not translators) should use this.</description>
   <url>http://www.agmip.org/</url>
 
   <dependencyManagement>
     <dependencies>
       <dependency>
         <groupId>org.agmip.bom</groupId>
-        <artifactId>agmip-translator-bom</artifactId>
+        <artifactId>agmip-lib-bom</artifactId>
         <version>2.0.1</version>
         <type>pom</type>
         <scope>import</scope>
