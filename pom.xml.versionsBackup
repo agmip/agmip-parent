@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.agmip.parent</groupId>
   <artifactId>agmip-base-parent</artifactId>
-  <version>2.0.2</version>
+  <version>2.0.2-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>AgMIP Base Parent</name>
   <description>AgMIP Base Parent POM. All -parent POMs should derive from this.</description>
